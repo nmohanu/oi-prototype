@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/nathanaelm/projects/prototype-oi/build",
-  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/prototype-oi.dir/main.cpp.o -c /home/nathanaelm/projects/prototype-oi/main.cpp",
-  "file": "/home/nathanaelm/projects/prototype-oi/main.cpp",
-  "output": "CMakeFiles/prototype-oi.dir/main.cpp.o"
-}
-]

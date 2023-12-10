@@ -1,7 +1,0 @@
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/prototype-oi.dir
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/edit_cache.dir
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/rebuild_cache.dir
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/list_install_components.dir
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/install.dir
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/install/local.dir
-/home/nathanaelm/projects/prototype-oi/build/CMakeFiles/install/strip.dir
